@@ -1,0 +1,18 @@
+{
+  "extends": ["prettier", "plugin:node/recommended", "eslint:recommended"],
+  "plugins": ["prettier"],
+  "rules": {
+    //"prettier/prettier": "warn",
+    "no-unused-vars": "warn",
+    "no-console": "off",
+    "no-multiple-empty-lines": "off",
+    "func-names": "off",
+    "no-process-exit": "off",
+    "object-shorthand": "off",
+    "class-methods-use-this": "off",
+    "no-shadow": "warn",
+    "import/newline-after-import": "off",
+    "arrow-body-style": "off",
+    "prefer-arrow-callback": "off"
+  }
+}

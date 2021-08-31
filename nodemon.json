@@ -1,0 +1,11 @@
+{
+  "env": {
+    "MYSQL_USER": "root",
+    "MYSQL_PASSWORD": "root",
+    "MYSQL_DATABASE": "status_changer_api",
+    "MYSQL_HOST": "localhost",
+    "MYSQL_PORT": 3306,
+    "INTERNAL_PWD": "interna123",
+    "AUTH_TOKEN": "0600d3462786d94d3f8e9361cbfb714c"
+  }
+}
